@@ -1,4 +1,9 @@
 # COVID19-India-API
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br>
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/subahanii/COVID19-tracker/blob/master/LICENSE)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/subahanii/COVID19-tracker/issues)
+
 
 ## Cheers...!
 ##### Now API is available for more conveniace for Developer who belong from different Technology and wnat to data visualizion.
@@ -16,3 +21,22 @@
 | Test data on particular date  | [	http://www.covid19trackr.ml/API/testDataOnDate/2020-06-01](	http://www.covid19trackr.ml/API/testDataOnDate/2020-06-01)  |
 | Test and State data between two date  | [http://www.covid19trackr.ml/API/btwDateSateAndTestData/2020-05-28to2020-06-01](http://www.covid19trackr.ml/API/btwDateSateAndTestData/2020-05-28to2020-06-01)  |
 | Get current updatedData  | [http://www.covid19trackr.ml/API/currentUpdatedData](http://www.covid19trackr.ml/API/currentUpdatedData)  |
+
+
+
+
+### Data Source 
+1. For Indian state data [mohfw.gov.in](https://www.mohfw.gov.in/).
+2. For Test data [www.icmr.gov.in](https://www.icmr.gov.in/)
+
+### Contributions :smiley:[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/subahanii/COVID19-tracker/issues)
+Contributions always welcome .
+
+
+### License
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/subahanii/COVID19-tracker/blob/master/LICENSE) file for details.
+<br><br>
+
+### Thank You.:pray:
+##### If you like this please appreciate by giving start and Fork this repo.Thank You...! :clap: :clap: :clap:
+
