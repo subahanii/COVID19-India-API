@@ -10,17 +10,19 @@
 
 <br>
 <br>
+
 ## Features
 ##### Get JSON Data
+
 | Data  | URL|
-| ------------- | ------------- |
+| ------------------------------------------ | ---------------------------------------------- |
 | Get all test and state data till date  | [http://www.covid19trackr.ml/API/all/](http://www.covid19trackr.ml/API/all/)  |
-| Only state data till date  | [	http://www.covid19trackr.ml/API/stateDataTillDate/](	http://www.covid19trackr.ml/API/stateDataTillDate/) |
-| Only test data till date  | [	http://www.covid19trackr.ml/API/testDataTillDate/](	http://www.covid19trackr.ml/API/testDataTillDate/)  |
+| Only state data till date  | [	http://www.covid19trackr.ml/API/stateDataTillDate/](http://www.covid19trackr.ml/API/stateDataTillDate/) |
+| Only test data till date  |[	http://www.covid19trackr.ml/API/testDataTillDate/](	http://www.covid19trackr.ml/API/testDataTillDate/)|
 | State data on particular date  | [http://www.covid19trackr.ml/API/stateDataOnDate/2020-06-01](http://www.covid19trackr.ml/API/stateDataOnDate/2020-06-01)  |
 | Test data on particular date  | [	http://www.covid19trackr.ml/API/testDataOnDate/2020-06-01](	http://www.covid19trackr.ml/API/testDataOnDate/2020-06-01)  |
 | Test and State data between two date  | [http://www.covid19trackr.ml/API/btwDateSateAndTestData/2020-05-28to2020-06-01](http://www.covid19trackr.ml/API/btwDateSateAndTestData/2020-05-28to2020-06-01)  |
-| Get current updatedData (updation every 30 mint)  | [http://www.covid19trackr.ml/API/getNewlyUpdateData](http://www.covid19trackr.ml/API/getNewlyUpdateData)  |
+| Get current updatedData (updation every 30 mint)|[http://www.covid19trackr.ml/API/getNewlyUpdateData](http://www.covid19trackr.ml/API/getNewlyUpdateData)  |
 
 <br><br>
 ### Data Source 
