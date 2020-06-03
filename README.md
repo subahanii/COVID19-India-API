@@ -39,5 +39,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 <br><br>
 
 ### Thank You.:pray:
-##### If you like this please appreciate by giving start and Fork for contribution and make it more usefull it. Thank You...! :clap: :clap: :clap:
+##### If you like this please appreciate by giving start and Fork for contribution and make it more usefull. Thank You...! :clap: :clap: :clap:
 
