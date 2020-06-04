@@ -25,7 +25,7 @@
 | Get current updatedData (updation every 30 mint)|[http://www.covid19trackr.ml/API/getNewlyUpdateData](http://www.covid19trackr.ml/API/getNewlyUpdateData)  |
 <br><br>
 ## Apps who are using this API
-1. A Django based web App [www.covid19trackr.ml](www.covid19trackr.ml) and [repo](https://github.com/subahanii/COVID19-tracker) is here .
+1. A Django based web App [www.covid19trackr.ml](http://www.covid19trackr.ml) and [repo](https://github.com/subahanii/COVID19-tracker) is here .
 <br><br>
 ### Data Source 
 1. For Indian state data [mohfw.gov.in](https://www.mohfw.gov.in/).
