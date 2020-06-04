@@ -6,7 +6,7 @@
 <br>
 ## Intro...
 ##### Now API is available for more conveniace for Developer who belong from different Technology and wnat to data visualizion.
-##### You can use it for develope COVID19 Tracker in India for different plateform like- Android App, React, Angular, Desktop App etc... Just calling below urls and get JSON data.
+##### You can use it for develop COVID19 Tracker in India for different plateform like- Android App, React, Angular, Desktop App etc... Just calling below urls and get JSON data.
 
 <br>
 <br>
@@ -25,7 +25,7 @@
 | Get current updatedData (updation every 30 mint)|[http://www.covid19trackr.ml/API/getNewlyUpdateData](http://www.covid19trackr.ml/API/getNewlyUpdateData)  |
 <br><br>
 ## Apps who are using this API
-1. A Django based web App [www.covid19trackr.ml](http://www.covid19trackr.ml) and [repo](https://github.com/subahanii/COVID19-tracker) is here .
+1. A Django based webApp [www.covid19trackr.ml](http://www.covid19trackr.ml) and its [repo](https://github.com/subahanii/COVID19-tracker) is here .
 <br><br>
 ### Data Source 
 1. For Indian state data [mohfw.gov.in](https://www.mohfw.gov.in/).
